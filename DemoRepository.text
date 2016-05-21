@@ -3,3 +3,7 @@ Hi All
 This is the Demo Remository on GitHub using Windows.
 
 This file is edited in branch 1
+
+
+
+Previous changes were not commited to Master branch. Pull request is closed changes get reverted to the bracnh from where user has create a separate branch
